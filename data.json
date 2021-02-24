@@ -1,0 +1,15 @@
+{
+  "uid": "1DfPzbthSFaCiV1nBW1iNDS5nW83",
+  "Email": "reseller@gmail.com",
+  "Name": "John",
+  "Business_Name": "John Enterprise",
+  "Mobile": "918208394566",
+  "Personal_Price": "30",
+  "Enterprise_Price": "80",
+  "Account_Status": true,
+  "Personal_App_ID": "price_1ION18JfPaVmMPuKYPhWOMHX",
+  "Enterprise_App_ID": "test",
+  "repository": "genieiotiot/john-reseller",
+  "Reseller_Page": "http://genieiotiot.github.io/john-reseller",
+  "ToUpdate": "DB Updated. Updating Page"
+}
